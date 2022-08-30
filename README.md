@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Gonzalez (@LuisG2604)
-- 👀 I’m interested in videogames develop
+- 👀 I’m interested in videogames development
 - 🌱 I’m currently learning Python, HTML, CSS, JS
 - 📫 How to reach me:
 -   E-mail: luisaugustogr47@gmail.com
