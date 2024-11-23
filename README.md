@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Luis Gonzalez (@LuisG2604)
-- 👀 I’m interested in videogames development
-- 🌱 I currently know Java, Python, HTML, CSS, JS, C# and learning more!
+- 👀 I’m interested in videogames development.
+- 🌱 I currently know Java, Python, HTML, CSS, JS, C# and learning more programming languages!
+- 🪼 I have tried to make small games many times, I have knowledge on 3D and 2D dessign.
+- 🛬 I speak Spanish, French and English.
 - 📫 How to reach me:
 -   E-mail: luisaugustogr47@gmail.com
 -   Discord: tknhunter
